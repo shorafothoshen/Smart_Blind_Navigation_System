@@ -52,7 +52,6 @@
 > 👇 **Click the image to watch the full working demo**
 
 <a href="https://drive.google.com/file/d/13ZLQHstsLv5ax7DYjMHhBMooee33j60B/view?usp=sharing">
-  <img src="images/project-photo.png" alt="Watch the demo video" width="80%">
 </a>
 
 <br>
